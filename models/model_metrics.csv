@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,roc_auc,selection_score,best_cv_f1,best_params
+Random Forest,0.685,0.7333,0.8643,0.7934,0.6957,0.7446,0.8118,"{'classifier__max_depth': None, 'classifier__max_features': 'sqrt', 'classifier__min_samples_leaf': 1, 'classifier__n_estimators': 150}"
+Logistic Regression,0.66,0.8396,0.6357,0.7236,0.7637,0.7436,0.7348,"{'classifier__C': 3.0, 'classifier__penalty': 'l2'}"
+Decision Tree,0.7,0.7632,0.8286,0.7945,0.6337,0.7141,0.7466,"{'classifier__criterion': 'entropy', 'classifier__max_depth': 3, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 2}"
