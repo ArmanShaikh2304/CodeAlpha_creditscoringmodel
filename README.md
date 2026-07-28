@@ -242,7 +242,7 @@ The project generates multiple visualizations for better model interpretation.
 - ⚖️ Fairness & Bias Detection
 - 📊 MLflow Experiment Tracking
 - 🌐 REST API using FastAPI
-- ☁️ Cloud Deployment
+- ☁️ Cloud Deployment  
 - 📈 Real-Time Prediction Service
 - 🔄 Continuous Model Monitoring
 - 🧪 Automated Model Validation
