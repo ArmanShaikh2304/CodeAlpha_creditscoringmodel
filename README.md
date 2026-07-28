@@ -46,7 +46,7 @@ The project includes everything required in a production-style ML pipeline:
 - Duplicate Removal
 - Feature Encoding
 - Feature Scaling
-- Automated Dataset Profiling
+- Automated Dataset Profiling  
 
 ---
 
