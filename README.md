@@ -133,7 +133,7 @@ Prediction API
       │
       ▼
 Streamlit Web Application
-```
+```.  
 
 ---
 
