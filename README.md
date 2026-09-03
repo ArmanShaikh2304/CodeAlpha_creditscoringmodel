@@ -2,7 +2,7 @@
 
 # 💳 Credit Scoring Model
 
-### An End-to-End Machine Learning Pipeline for Predicting Applicant Creditworthiness
+### An End-to-End Machine Learning Pipeline for Predicting Applicant Creditworthiness.  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
