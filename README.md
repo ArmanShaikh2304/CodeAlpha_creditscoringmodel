@@ -11,7 +11,7 @@
 
 *A complete Machine Learning project that predicts whether a loan applicant is likely to be **creditworthy** using multiple classification algorithms, advanced preprocessing, feature engineering, model evaluation, and an interactive Streamlit dashboard.*
 
-</div>
+</div> 
 
 ---
 
