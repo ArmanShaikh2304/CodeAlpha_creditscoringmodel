@@ -61,7 +61,7 @@ The project includes everything required in a production-style ML pipeline:
 
 ---
 
-### 📈 Model Evaluation
+### 📈 Model Evaluation 
 
 - Accuracy
 - Precision
