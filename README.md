@@ -27,7 +27,7 @@ The project includes everything required in a production-style ML pipeline:
 - Data Cleaning
 - Feature Engineering
 - Exploratory Data Analysis
-- Model Training
+- Model Training 
 - Hyperparameter Tuning
 - Model Evaluation
 - Automatic Best Model Selection
