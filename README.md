@@ -17,7 +17,7 @@
 
 # 🌟 Project Overview 
 
-This project demonstrates a complete **Machine Learning workflow** from raw data to deployment.
+This project demonstrates a complete **Machine Learning workflow** from raw data to deployment. 
 
 Using the **UCI German Credit Dataset**, the application predicts whether an applicant has **Good Credit** or **Bad Credit** based on financial and demographic information.
 
