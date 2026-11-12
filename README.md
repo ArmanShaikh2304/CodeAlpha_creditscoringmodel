@@ -57,7 +57,7 @@ The project includes everything required in a production-style ML pipeline:
 - Random Forest Classifier
 - Cross Validation
 - GridSearchCV Hyperparameter Optimization
-- Automatic Best Model Selection
+- Automatic Best Model Selection 
 
 ---
 
