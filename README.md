@@ -169,7 +169,7 @@ To improve prediction quality, additional financial indicators were engineered, 
 - Income Proxy
 - Debt
 - Debt-to-Income Ratio
-- Loan-to-Income Ratio
+- Loan-to-Income Ratio 
 
 ---
 
