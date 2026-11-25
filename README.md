@@ -191,7 +191,7 @@ The project automatically selects the best-performing model using:
 Selection Score = (F1 Score + ROC-AUC) / 2
 ```
 
-🏅 **Selected Model:** **Random Forest Classifier**
+🏅 **Selected Model:** **Random Forest Classifier** 
 
 ---
 
