@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 
-*A complete Machine Learning project that predicts whether a loan applicant is likely to be **creditworthy** using multiple classification algorithms, advanced preprocessing, feature engineering, model evaluation, and an interactive Streamlit dashboard.*
+*A complete Machine Learning project that predicts whether a loan applicant is likely to be **creditworthy** using multiple classification algorithms, advanced preprocessing, feature engineering, model evaluation, and an interactive Streamlit dashboard.* 
  
 </div> 
 
