@@ -139,7 +139,7 @@ Streamlit Web Application
 
 # ⚙️ Technologies Used
 
-| Category | Technologies |
+| Category | Technologies | 
 |-----------|--------------|
 | Language | Python |
 | Machine Learning | Scikit-Learn |
